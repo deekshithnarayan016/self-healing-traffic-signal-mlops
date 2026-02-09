@@ -1,0 +1,5 @@
+Baseline Metrics (City Network)
+System Waiting Time per step: 540.4297222222223
+Average Queue Length per step: 35.83694444444444
+Total Throughput: 3519
+Average Waiting Time per vehicle: 22.076687968880243
